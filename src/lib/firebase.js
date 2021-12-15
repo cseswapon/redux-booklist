@@ -3,12 +3,12 @@ import "firebase/auth";
 import "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCeqFE1BwexeU8bisIm7aMt8szgMmAXSwQ",
-  authDomain: "bookshelf-9e271.firebaseapp.com",
-  projectId: "bookshelf-9e271",
-  storageBucket: "bookshelf-9e271.appspot.com",
-  messagingSenderId: "188481056655",
-  appId: "1:188481056655:web:488b42a4bc59aaace825fa"
+  apiKey: "AIzaSyA4WBLZfxJ2iNlkvMXhjX103vv23Cf_4vU",
+  authDomain: "redux-book-rb.firebaseapp.com",
+  projectId: "redux-book-rb",
+  storageBucket: "redux-book-rb.appspot.com",
+  messagingSenderId: "666168996474",
+  appId: "1:666168996474:web:ca7e1093edfaa71a9a41c3",
 };
 
 if (!firebase.apps.length) {
